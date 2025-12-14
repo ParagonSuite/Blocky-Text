@@ -7,11 +7,16 @@ I've recently decided to make this a personal project, as I am not sure if other
 NOTE: This will be transfered to the wiki soon, until then look here.
 #### move(amount, object)
 Move forward
+---
 #### turn(amount, object)
 Turn left or right, neg/pos
+---
 #### glideto(coordinates, object)
 Glide to position on screen
+---
 #### say(string, object)
 Put text on screen next to sprite
+---
 #### wait(delay)
 Delay system
+---
